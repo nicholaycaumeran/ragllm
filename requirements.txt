@@ -1,0 +1,17 @@
+# ── RAG core ───────────────────────────
+langchain-community==0.3.24   # needs langchain-core 0.3.* :contentReference[oaicite:0]{index=0}
+langchain-openai==0.3.17      # same core range          :contentReference[oaicite:1]{index=1}
+faiss-cpu==1.11.0
+pypdfium2==4.27.0
+tiktoken==0.7.0
+
+# ── API & settings ───────────────
+fastapi==0.111.0
+uvicorn[standard]==0.29.0
+#pydantic-settings==2.4.2
+pydantic-settings>=2.4,<3.0
+
+# ── Eval & tests ────────────────
+ragas==0.1.5
+pytest==8.2.1
+pyyaml==6.0.1
