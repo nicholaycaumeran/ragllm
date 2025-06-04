@@ -1,5 +1,5 @@
 ## RAG-LLM on Insurance Policy
-# A production‑ready Retrieval‑Augmented Generation pipeline for answering questions about insurance policy documents.
+A production‑ready Retrieval‑Augmented Generation pipeline for answering questions about insurance policy documents.
 
 This repository contains a complete reference implementation of a RAG (Retrieval‑Augmented Generation) system built with LangChain 0.1.x and evaluated with Ragas 0.2.15.  The pipeline ingests an insurance policy PDF, chunks & indexes it with FAISS, and serves a FastAPI endpoint that answers free‑text questions grounded in the source document.
 
