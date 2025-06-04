@@ -1,0 +1,68 @@
+# tests/dataset.yaml  –  minimal evaluation set
+# -------------------------------------------------
+- question: >
+    Who is NOT eligible to buy Nomad Insurance Essential?
+  answer: >
+    Anyone younger than 14 days old or age 70 and above cannot purchase the
+    plan.:contentReference
+
+- question: >
+    Does the plan cover me while I’m visiting my home country?
+  answer: >
+    Yes—after 90 days of active cover you get emergency medical benefits for
+    short visits home (30 days per 90-day period, 15 days if the home country
+    is the USA).:contentReference
+
+- question: >
+    Are medical expenses for COVID-19 treated the same as other illnesses?
+  answer: >
+    Medical treatment for COVID-19 is covered on the same terms as any other
+    disease; quarantine outside your home country is reimbursed at $50 per
+    day for up to 10 days once per 364-day policy.:contentReference
+
+- question: >
+    Is pain-relieving emergency dental treatment included?
+  answer: >
+    Yes—acute pain treatment by a dentist is covered (seek care within 72 h;
+    dentures/appliances excluded), up to the plan’s overall limit.:contentReference
+
+- question: >
+    How much is reimbursed if my checked luggage is permanently lost?
+  answer: >
+    Up to $3 000 per active period (max $500 per item, lifetime max $6 000)
+    when the bag remains missing after ten days and proper documentation is
+    provided.:contentReference
+
+- question: >
+    Does the policy have a deductible?
+  answer: >
+    No—Nomad Insurance has **no deductible** on either plan.:contentReference
+
+- question: >
+    Are pre-existing conditions covered?
+  answer: >
+    Generally no; however, sudden unexpected emergencies tied to a
+    pre-existing condition are covered up to the overall limit if treatment is
+    sought within 24 hours and the condition is not incurable or expected to
+    worsen.:contentReference
+
+- question: >
+    What benefit can I claim if my passport is stolen?
+  answer: >
+    Reasonable costs to replace a stolen passport or visa are reimbursed,
+    provided you report the theft to police within 24 hours and keep
+    receipts.:contentReference
+
+- question: >
+    Does the plan pay for evacuation from local unrest?
+  answer: >
+    Yes—transport to your home country or a nearby safe country is covered if
+    a new travel warning is issued and evacuation is arranged with the insurer
+    within ten days.:contentReference
+
+- question: >
+    Is there coverage for electronics theft?
+  answer: 
+    With the optional Electronics Theft add-on, you can claim up to $3 000
+    per period (max $1 000 per device, lifetime max $6 000) for stolen laptops,
+    cameras, phones and other listed gadgets.:contentReference
